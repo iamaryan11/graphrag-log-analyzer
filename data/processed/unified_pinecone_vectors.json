@@ -1,0 +1,1667 @@
+[
+  {
+    "id": "hdfs-78-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-2918118818249673980",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.30.85:50010:Got exception while serving blk_-2918118818249673980 to /10.251.90.64:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-79-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_8376667364205250596",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.126.255:50010:Got exception while serving blk_8376667364205250596 to /10.251.91.159:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-81-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_3763728533434719668",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.123.132:50010:Got exception while serving blk_3763728533434719668 to /10.251.38.214:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-82-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_6241141267506413726",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.13.188:50010:Got exception while serving blk_6241141267506413726 to /10.251.194.245:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-84-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_8466246428293623262",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.199.19:50010:Got exception while serving blk_8466246428293623262 to /10.251.106.37:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-85-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-3140754468249228022",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.9.207:50010:Got exception while serving blk_-3140754468249228022 to /10.250.9.207:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-86-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_3441699978641526775",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.202.134:50010:Got exception while serving blk_3441699978641526775 to /10.251.126.5:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-88-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-305633040016166849",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.14.196:50010:Got exception while serving blk_-305633040016166849 to /10.251.38.53:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-89-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-6290631608800952376",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.107.227:50010:Got exception while serving blk_-6290631608800952376 to /10.251.109.209:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-91-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-4841792440390267307",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.90.64:50010:Got exception while serving blk_-4841792440390267307 to /10.251.90.239:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-92-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_5126469776250053435",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.10.144:50010:Got exception while serving blk_5126469776250053435 to /10.250.11.100:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-93-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-2032740670708110312",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.71.146:50010:Got exception while serving blk_-2032740670708110312 to /10.251.197.161:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-94-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-62891505109755100",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.67.113:50010:Got exception while serving blk_-62891505109755100 to /10.250.7.96:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-95-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_2244903517044280975",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.74.79:50010:Got exception while serving blk_2244903517044280975 to /10.251.74.134:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-96-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_5905933788014151041",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.214.112:50010:Got exception while serving blk_5905933788014151041 to /10.251.214.112:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-98-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_2969087638814291714",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.43.210:50010:Got exception while serving blk_2969087638814291714 to /10.251.199.86:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-99-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_2879780987351022871",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.126.255:50010:Got exception while serving blk_2879780987351022871 to /10.251.39.144:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-100-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_4934527196392001803",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.73.220:50010:Got exception while serving blk_4934527196392001803 to /10.251.203.246:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-101-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_7517964792804498202",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.73.188:50010:Got exception while serving blk_7517964792804498202 to /10.250.6.191:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-102-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_7940316270494947483",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.35.1:50010:Got exception while serving blk_7940316270494947483 to /10.251.122.38:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-103-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_7154985168984871115",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.90.134:50010:Got exception while serving blk_7154985168984871115 to /10.251.110.160:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-294-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-6900989714336081087",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.67.225:50010:Got exception while serving blk_-6900989714336081087 to /10.251.25.237:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-296-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-8023826090828946372",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.42.191:50010:Got exception while serving blk_-8023826090828946372 to /10.251.214.130:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-297-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-1367876730256254709",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.31.5:50010:Got exception while serving blk_-1367876730256254709 to /10.251.67.225:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-299-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-7983508786213002472",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.26.8:50010:Got exception while serving blk_-7983508786213002472 to /10.251.38.197:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-310-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-7680599654910200999",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.75.228:50010:Got exception while serving blk_-7680599654910200999 to /10.251.75.228:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-317-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_5547569777499890340",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.38.214:50010:Got exception while serving blk_5547569777499890340 to /10.251.195.52:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-319-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-7658293778087733436",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.42.246:50010:Got exception while serving blk_-7658293778087733436 to /10.251.30.179:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-320-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_3169060243663461885",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.111.130:50010:Got exception while serving blk_3169060243663461885 to /10.251.214.32:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-325-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-8522942048313632858",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.26.8:50010:Got exception while serving blk_-8522942048313632858 to /10.251.31.85:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-328-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-272707591443354058",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.123.1:50010:Got exception while serving blk_-272707591443354058 to /10.251.198.33:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-329-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-8679916835272129336",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.90.239:50010:Got exception while serving blk_-8679916835272129336 to /10.250.15.198:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-330-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_6106884317961925960",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.66.102:50010:Got exception while serving blk_6106884317961925960 to /10.251.66.102:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-331-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_6332892729727950039",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.31.5:50010:Got exception while serving blk_6332892729727950039 to /10.251.123.1:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-333-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-5935642747315643391",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.17.225:50010:Got exception while serving blk_-5935642747315643391 to /10.251.199.150:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-334-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-20269367189114433",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.215.70:50010:Got exception while serving blk_-20269367189114433 to /10.251.30.179:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-338-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-1851265222873801714",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.15.198:50010:Got exception while serving blk_-1851265222873801714 to /10.251.195.52:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-339-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-8495670552887053546",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.198.33:50010:Got exception while serving blk_-8495670552887053546 to /10.250.10.223:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-340-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-7372087176866857012",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.19.227:50010:Got exception while serving blk_-7372087176866857012 to /10.251.110.68:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-341-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_4357276972386184626",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.70.112:50010:Got exception while serving blk_4357276972386184626 to /10.251.74.79:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-342-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-4590972095204776122",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.215.16:50010:Got exception while serving blk_-4590972095204776122 to /10.251.30.6:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-349-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_4524198807982839635",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.107.50:50010:Got exception while serving blk_4524198807982839635 to /10.251.122.79:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-350-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_7505828172725463922",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.111.209:50010:Got exception while serving blk_7505828172725463922 to /10.251.111.209:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-351-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_424255210146453297",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.70.211:50010:Got exception while serving blk_424255210146453297 to /10.251.203.179:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-354-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_1686195200514944346",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.126.22:50010:Got exception while serving blk_1686195200514944346 to /10.250.6.223:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-357-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-667933171485085225",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.70.211:50010:Got exception while serving blk_-667933171485085225 to /10.251.203.246:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-360-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_3790492230047189408",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.125.193:50010:Got exception while serving blk_3790492230047189408 to /10.251.199.159:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-681-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_4581070264530964999",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.70.5:50010:Got exception while serving blk_4581070264530964999 to /10.250.13.188:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-682-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_2139707931694085102",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.74.79:50010:Got exception while serving blk_2139707931694085102 to /10.251.111.228:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-683-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-3056652732896088330",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.42.246:50010:Got exception while serving blk_-3056652732896088330 to /10.251.27.63:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-684-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_73389299186801686",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.13.188:50010:Got exception while serving blk_73389299186801686 to /10.251.123.33:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-685-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_4963214289850966664",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.42.16:50010:Got exception while serving blk_4963214289850966664 to /10.251.202.181:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-686-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-8082428389627750477",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.71.240:50010:Got exception while serving blk_-8082428389627750477 to /10.251.71.97:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-688-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_7489155602821840025",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.122.38:50010:Got exception while serving blk_7489155602821840025 to /10.251.26.8:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-690-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_2101007907134483259",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.197.226:50010:Got exception while serving blk_2101007907134483259 to /10.251.31.242:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-691-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_3848747149919646864",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.26.177:50010:Got exception while serving blk_3848747149919646864 to /10.251.125.174:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-692-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_8059204889272489644",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.30.85:50010:Got exception while serving blk_8059204889272489644 to /10.250.7.96:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-693-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_1683075246463470765",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.39.179:50010:Got exception while serving blk_1683075246463470765 to /10.250.14.38:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-695-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_4048438071314937575",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.123.132:50010:Got exception while serving blk_4048438071314937575 to /10.251.194.213:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-697-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_1910039736720341651",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.126.255:50010:Got exception while serving blk_1910039736720341651 to /10.251.31.85:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-698-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_1646534811870220828",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.70.37:50010:Got exception while serving blk_1646534811870220828 to /10.250.11.100:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-700-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_424461424221613461",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.214.130:50010:Got exception while serving blk_424461424221613461 to /10.251.71.193:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-702-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-7391656937286046074",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.215.70:50010:Got exception while serving blk_-7391656937286046074 to /10.251.107.196:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-787-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-5340885607150360719",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.30.101:50010:Got exception while serving blk_-5340885607150360719 to /10.251.30.101:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-788-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_6702054389824523327",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.195.33:50010:Got exception while serving blk_6702054389824523327 to /10.251.195.33:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-791-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-7125370327234065733",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.11.53:50010:Got exception while serving blk_-7125370327234065733 to /10.250.15.240:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-793-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_8478683141242372735",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.10.223:50010:Got exception while serving blk_8478683141242372735 to /10.251.70.5:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-795-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-4737948505610037427",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.107.50:50010:Got exception while serving blk_-4737948505610037427 to /10.251.75.79:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-798-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_2967299761311489673",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.14.196:50010:Got exception while serving blk_2967299761311489673 to /10.251.89.155:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-799-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_9095955277706686312",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.10.223:50010:Got exception while serving blk_9095955277706686312 to /10.250.5.161:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-800-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-8558281124275910849",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.39.179:50010:Got exception while serving blk_-8558281124275910849 to /10.251.30.134:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-802-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-3572295706132449090",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.26.8:50010:Got exception while serving blk_-3572295706132449090 to /10.251.111.130:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-804-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_7760079751081658559",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.127.243:50010:Got exception while serving blk_7760079751081658559 to /10.251.215.70:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-1110-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_2262752117989012641",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.75.143:50010:Got exception while serving blk_2262752117989012641 to /10.250.13.188:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-1111-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-4181768899028058192",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.126.227:50010:Got exception while serving blk_-4181768899028058192 to /10.251.26.177:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-1114-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-7029628814943626474",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.7.230:50010:Got exception while serving blk_-7029628814943626474 to /10.251.38.197:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-1120-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_481857539063371482",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.214.175:50010:Got exception while serving blk_481857539063371482 to /10.251.105.189:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-1122-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-8083036675630459841",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.39.144:50010:Got exception while serving blk_-8083036675630459841 to /10.251.39.209:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-1123-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-1508527605812345693",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.250.7.32:50010:Got exception while serving blk_-1508527605812345693 to /10.251.74.192:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "hdfs-1127-a6397601",
+    "text_to_embed": "Domain: HDFS | Component: dfs.DataNode$DataXceiver | Severity: WARN | Error Pattern: <*>:<*>:Got exception while serving blk_<*> to /<*>: | Root Cause: DataNode network socket read timeout or disk I/O bottleneck during block transfer. | Resolution: Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+    "metadata": {
+      "dataset": "HDFS",
+      "component": "dfs.DataNode$DataXceiver",
+      "severity": "WARN",
+      "trace_key": "blk_-3140031507252212554",
+      "cleaned_template": "<*>:<*>:Got exception while serving blk_<*> to /<*>:",
+      "raw_message": "10.251.107.98:50010:Got exception while serving blk_-3140031507252212554 to /10.250.7.244:",
+      "root_cause": "DataNode network socket read timeout or disk I/O bottleneck during block transfer.",
+      "resolution": "Inspect DataNode network socket timeout parameters, verify disk read latency on host, and restart DataXceiver thread if hung.",
+      "remediation_type": "CHECK_INFRASTRUCTURE"
+    }
+  },
+  {
+    "id": "openstack-57-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-147-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-238-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-241-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-327-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-332-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-425-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-511-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-601-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-604-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-694-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-783-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-789-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-880-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-982-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1069-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1159-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1259-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1262-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1297-bb3bf7e4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.compute.manager | Severity: WARNING | Error Pattern: While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor. | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.compute.manager",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",
+      "raw_message": "While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor.",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1355-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1441-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1535-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1538-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1634-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1639-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1726-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1816-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1822-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1910-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  },
+  {
+    "id": "openstack-1913-5f09a5a4",
+    "text_to_embed": "Domain: OpenStack | Component: nova.virt.libvirt.imagecache | Severity: WARNING | Error Pattern: Unknown base file: <*> | Root Cause: Standard operational log trace or unclassified infrastructure event. | Resolution: Inspect real-time system metrics and verify dependent microservice health.",
+    "metadata": {
+      "dataset": "OpenStack",
+      "component": "nova.virt.libvirt.imagecache",
+      "severity": "WARNING",
+      "trace_key": "UNKNOWN_TRACE",
+      "cleaned_template": "Unknown base file: <*>",
+      "raw_message": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+      "root_cause": "Standard operational log trace or unclassified infrastructure event.",
+      "resolution": "Inspect real-time system metrics and verify dependent microservice health.",
+      "remediation_type": "MANUAL_INVESTIGATION"
+    }
+  }
+]

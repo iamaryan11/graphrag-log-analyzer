@@ -1,0 +1,9 @@
+# AI & Vector Database SDKs
+google-genai>=0.1.0
+pinecone>=6.0.0
+
+# Graph Database Client
+neo4j>=5.0.0
+
+# Environment Variable & Utility Libraries
+python-dotenv>=1.0.0
